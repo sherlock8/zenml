@@ -3,6 +3,7 @@
 ## Getting Started
 
 * [Welcome to ZenML](introduction.md)
+* [ZenML 中文介绍](getting-started/zenml-introduction-chinese.md)
 * [Installation](getting-started/installation.md)
 * [Hello World](getting-started/hello-world.md)
 * [Core Concepts](getting-started/core-concepts.md)
